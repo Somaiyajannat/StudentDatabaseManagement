@@ -17,5 +17,55 @@ namespace StudentDb.Controllers
             IEnumerable<Course>CourseList = _context.Courses;
             return View(CourseList);
         }
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Course course)
+        {
+            if(ModelState.IsValid)
+            {
+                _context.Courses.Add(course);
+                _context.SaveChanges();
+                return RedirectToAction("Index");  
+            }
+            return View(course);
+        }
+        public IActionResult Edit(int? Id)
+        {
+            var info = _context.Courses.Find(Id);
+            if (info == null)
+            {
+                return NotFound();
+
+            }
+           
+            return View(Id);
+        }
+        [HttpPost]
+        public IActionResult Edit(Course courses)
+        {
+            if (ModelState.IsValid)
+            {
+                _context.Courses.Update(courses);
+                _context.SaveChanges(true);
+                return RedirectToAction("Index");
+            }
+            return View(courses);
+        }
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public IActionResult DeleteCourse(int? id)
+        //{
+        //    if (ModelState.IsValid)
+        //    {
+        //        _context.Courses.Remove();
+        //        _context.SaveChanges();
+        //        return RedirectToAction("Index");
+        //    }
+        //    return View();
+        //}
+
     }
 }
