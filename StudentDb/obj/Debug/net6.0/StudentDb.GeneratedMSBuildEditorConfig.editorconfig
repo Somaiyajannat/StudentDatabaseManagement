@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentDb
 build_property.RootNamespace = StudentDb
-build_property.ProjectDir = F:\Projects\StudentDbSolution\StudentDb\
+build_property.ProjectDir = F:\Projects\StudentDb\StudentDb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Projects\StudentDbSolution\StudentDb
+build_property.MSBuildProjectDirectory = F:\Projects\StudentDb\StudentDb
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Home/Index.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Home/Privacy.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Shared/Error.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Student/Create.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Student/Delete.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Student/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Student/Edit.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Student/Index.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/_ViewImports.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/_ViewStart.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Projects/StudentDbSolution/StudentDb/Views/Shared/_Layout.cshtml]
+[F:/Projects/StudentDb/StudentDb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jrkc5rud6v

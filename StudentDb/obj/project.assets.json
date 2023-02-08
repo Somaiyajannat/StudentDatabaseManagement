@@ -10515,11 +10515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projects\\StudentDbSolution\\StudentDb\\StudentDb.csproj",
+      "projectUniqueName": "F:\\Projects\\StudentDb\\StudentDb\\StudentDb.csproj",
       "projectName": "StudentDb",
-      "projectPath": "F:\\Projects\\StudentDbSolution\\StudentDb\\StudentDb.csproj",
+      "projectPath": "F:\\Projects\\StudentDb\\StudentDb\\StudentDb.csproj",
       "packagesPath": "C:\\Users\\Jannat\\.nuget\\packages\\",
-      "outputPath": "F:\\Projects\\StudentDbSolution\\StudentDb\\obj\\",
+      "outputPath": "F:\\Projects\\StudentDb\\StudentDb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jannat\\AppData\\Roaming\\NuGet\\NuGet.Config",

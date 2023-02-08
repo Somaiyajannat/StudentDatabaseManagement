@@ -1,4 +1,4 @@
-﻿@model IEnumerable<StudentDb.Models.Course>
+﻿@model IEnumerable<StudentDb.Models.Student>
 
 <p>
     <a asp-action="Create">Create New</a>
@@ -7,16 +7,16 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.CourseCode)
+                @Html.DisplayNameFor(model => model.Name)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CourseName)
+                @Html.DisplayNameFor(model => model.Roll)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CourseCredit)
+                @Html.DisplayNameFor(model => model.Address)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.CourseAmount)
+                @Html.DisplayNameFor(model => model.RecordCreatedOn)
             </th>
             <th></th>
         </tr>
@@ -25,16 +25,16 @@
 @foreach (var item in Model) {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseCode)
+                @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseName)
+                @Html.DisplayFor(modelItem => item.Roll)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseCredit)
+                @Html.DisplayFor(modelItem => item.Address)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.CourseAmount)
+                @Html.DisplayFor(modelItem => item.RecordCreatedOn)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

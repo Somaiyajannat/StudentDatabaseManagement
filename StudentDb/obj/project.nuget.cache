@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gw6pcbP08qYcrvag5W1YhoN0qy9tqRMpiqpAiy2D9rb9hPOv58llIa11/b0v5FfblioRTa2ea8W0l6mDHnDXyw==",
+  "dgSpecHash": "zmxZqx2/WUl4w2p20PbFArP2dqYiuxVgV1kjsVygGxfRe3+LfVHJ/NRCzQ1yV0Owpj65FdiHvy52b8gsqJlH0Q==",
   "success": true,
-  "projectFilePath": "F:\\Projects\\StudentDbSolution\\StudentDb\\StudentDb.csproj",
+  "projectFilePath": "F:\\Projects\\StudentDb\\StudentDb\\StudentDb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jannat\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Jannat\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
